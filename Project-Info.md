@@ -5,12 +5,12 @@ This is a football penalty shoot game build for computer graphics project. Here 
 
 The win gets decided on the maximum number of goals out of 5, otherwsie he looses.
 
-Algorithms:
--Midpoint line draw algorithms
--Midpoint circle draw algorithms
--Transformation
--Scaling
--Rotation
+Algorithms:<br>
+-Midpoint line draw algorithms<br>
+-Midpoint circle draw algorithms<br>
+-Transformation<br>
+-Scaling<br>
+-Rotation<br>
 
 
 
@@ -18,8 +18,8 @@ Libraries: Numpy, OpenGL, Random, Time
 
 
 Key features:<br>
-Takes ball shot positioning from the user.
-Generates random movement of goalkeepers.
-Instantly updates the scoreboard.
-Scales the ball from view angle.
+Takes ball shot positioning from the user.<br>
+Generates random movement of goalkeepers.<br>
+Instantly updates the scoreboard.<br>
+Scales the ball from view angle.<br>
 Shows the result after gameover.
