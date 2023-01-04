@@ -17,7 +17,7 @@ Algorithms:
 Libraries: Numpy, OpenGL, Random, Time
 
 
-Key features:
+Key features:<br>
 Takes ball shot positioning from the user.
 Generates random movement of goalkeepers.
 Instantly updates the scoreboard.
