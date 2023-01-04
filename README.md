@@ -14,7 +14,8 @@ Algorithms:<br>
 
 
 
-Libraries: Numpy, OpenGL, Random, Time
+Libraries: Numpy, OpenGL, Random, Time<img width="1373" alt="Frame-1" src="https://user-images.githubusercontent.com/68827324/210651204-2c17486a-ddb4-4807-b0bf-d1634e27bc3d.png">
+
 
 
 Key features:<br>
@@ -22,4 +23,9 @@ Takes ball shot positioning from the user.<br>
 Generates random movement of goalkeepers.<br>
 Instantly updates the scoreboard.<br>
 Scales the ball from view angle.<br>
-Shows the result after gameover.
+Shows the result after gameover.![download](https://user-images.githubusercontent.com/68827324/210651213-7fdf3edc-1b42-4014-ba2c-7077b1f05291.png)
+![download-3](https://user-images.githubusercontent.com/68827324/210651225-499062b0-5db4-4fa1-a97f-4c19c97a8b82.png)
+![download-1](https://user-images.githubusercontent.com/68827324/210651228-4f51e275-5091-4986-bd4d-1bdcbf728abc.png)
+<img width="1373" alt="Frame" src="https://user-images.githubusercontent.com/68827324/210651231-8f0b60a8-f026-40a3-bc82-81d75096de74.png">
+![download-2](https://user-images.githubusercontent.com/68827324/210651236-400b53be-f1bc-473b-a937-37e010c1449a.png)
+
